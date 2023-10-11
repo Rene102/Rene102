@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rene102
+- 👋 Hi, I’m @AbhirajRana
 - 👀 I’m interested in bioinformatics in Data Science 
 - 🌱 I’m currently learning ML and r 
 - 💞️ I’m looking to collaborate on projects and assignments 
